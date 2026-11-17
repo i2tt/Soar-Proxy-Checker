@@ -22,7 +22,7 @@ An asynchronous Python CLI tool to test HTTP and HTTPS proxies against Discord, 
 - Custom endpoint check: test against any target URL
 - Real-time latency measurement per proxy
 - Automatic export to `working.txt`, `rate_limited.txt`, and `dead.txt`
-- Proxy list deduplicator and formatter
+- Proxy list deduplicator and formatter.
 
 ---
 
